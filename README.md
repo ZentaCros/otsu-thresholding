@@ -2,7 +2,9 @@
 
 Automated image thresholding using Otsu's method for optimal grayscale separation.
 
-![Before/After](images/output/comparison.png)
+![Before/After](images/output/Output_of_sample_image1.png)
+![Before/After](images/output/Output_of_sample_image2.png)
+![Before/After](images/output/Output_of_sample_image3.png)
 
 ## Project Objective
 Implementation of Otsu's algorithm to:
