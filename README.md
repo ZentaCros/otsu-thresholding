@@ -51,15 +51,14 @@ $$\sigma_b^2(t) = P_1(t) \cdot P_2(t) \cdot \left( \mu_1(t) - \mu_2(t) \right)^2
 
 ## Results
 
-### Sample Image 1
+### Image 1
 ![Before/After](images/output/Output_of_sample_image1.png)
-[https://Output_of_sample_image1.png](https://images/output/Output_of_sample_image1.png)
 * Composite output showing original, histogram, and binarized result
 
-### Sample Image 2
-[https://Output_of_sample_image2.png](https://Output_of_sample_image2.png)
+### Image 2
+![Before/After](images/output/Output_of_sample_image2.png)
 * Threshold analysis and binarization output
 
-### Sample Image 3
-[https://Output_of_sample_image3.png](https://Output_of_sample_image3.png)
+### Image 3
+![Before/After](images/output/Output_of_sample_image3.png)
 * Foreground/background separation results
