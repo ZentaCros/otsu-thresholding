@@ -49,7 +49,7 @@ $$\sigma_b^2(t) = P_1(t) \cdot P_2(t) \cdot \left( \mu_1(t) - \mu_2(t) \right)^2
 
 ---
 
-## Results
+## Foreground/background separation results
 
 ### Image 1
 ![Before/After](images/output/Output_of_sample_image1.png)
@@ -61,4 +61,3 @@ $$\sigma_b^2(t) = P_1(t) \cdot P_2(t) \cdot \left( \mu_1(t) - \mu_2(t) \right)^2
 
 ### Image 3
 ![Before/After](images/output/Output_of_sample_image3.png)
-* Foreground/background separation results
