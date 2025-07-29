@@ -1,10 +1,5 @@
 # Otsu's Thresholding: Adaptive Image Binarization
 
-**Name:** Muhammad Hamza Azeem
-**Roll No.:** 221980023
-**Assignment No.:** 3
-**Submitting to:** Sir Umer Ramzan
-
 ---
 
 ## Objective
