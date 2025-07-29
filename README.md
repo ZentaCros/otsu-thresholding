@@ -52,7 +52,7 @@ $$\sigma_b^2(t) = P_1(t) \cdot P_2(t) \cdot \left( \mu_1(t) - \mu_2(t) \right)^2
 ## Results
 
 ### Sample Image 1
-[https://Output_of_sample_image1.png](https://Output_of_sample_image1.png)
+[https://Output_of_sample_image1.png](https://images//output//Output_of_sample_image1.png)
 * Composite output showing original, histogram, and binarized result
 
 ### Sample Image 2
